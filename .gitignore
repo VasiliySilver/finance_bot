@@ -1,0 +1,81 @@
+# Виртуальные окружения
+venv/
+env/
+
+# Сборка
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.spec
+
+# Документация
+docs/_build/
+*.log
+
+# Тесты
+tests/
+test_*.py
+.pytest_cache/
+
+# Л��нтеры
+__pycache__/
+*.py[cod]
+*.class
+*~.py
+*.pyo
+*.pyc
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Отладка
+*.pyd
+*.so
+
+# Результаты сборки
+*.exe
+*.dll
+*.dylib
+*.so
+
+# Кэширование
+*.cache
+*.lock
+
+# Файлы ��онфигурации
+*.conf
+*.cfg
+*.json
+*.ini
+
+# Файлы логов
+*.log
+*.out
+*.txt
+
+# Файлы сборки
+*.exe
+*.zip
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.bz2
+*.rar
+*.7z
+
+# Файлы архива
+*.gz
+*.tar
+*.ar
+*.zip
+*.cab
+*.jar
+*.war
+*.ear
+*.rar
+*.7z
