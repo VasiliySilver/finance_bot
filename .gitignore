@@ -1,6 +1,7 @@
 # Виртуальные окружения
 venv/
 env/
+.env
 
 # Сборка
 build/
@@ -18,7 +19,7 @@ tests/
 test_*.py
 .pytest_cache/
 
-# Л��нтеры
+# Линтеры
 __pycache__/
 *.py[cod]
 *.class
